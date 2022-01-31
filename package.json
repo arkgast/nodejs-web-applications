@@ -1,0 +1,35 @@
+{
+  "name": "nodejs-web-applications",
+  "version": "1.0.0",
+  "description": "Nodejs Web Applications",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkgast/nodejs-web-applications.git"
+  },
+  "keywords": [
+    "nodejs",
+    "web",
+    "applications",
+    "js",
+    "express",
+    "fastify"
+  ],
+  "author": "Arnold Gandarillas Castillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arkgast/nodejs-web-applications/issues"
+  },
+  "homepage": "https://github.com/arkgast/nodejs-web-applications#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.2.0",
+    "prettier-standard": "^16.4.1"
+  }
+}
