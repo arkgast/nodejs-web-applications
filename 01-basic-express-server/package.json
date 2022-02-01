@@ -1,0 +1,22 @@
+{
+  "name": "01-basic-express-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www",
+    "dev": "node-dev --respawn ./bin/www"
+  },
+  "keywords": [],
+  "author": "Arnold Gandarillas Castillo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "http-errors": "^2.0.0",
+    "install": "^0.13.0"
+  },
+  "devDependencies": {
+    "node-dev": "^7.1.0"
+  }
+}
